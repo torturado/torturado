@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=torturado" alt="torturado" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rearmar" target="blank"><img src="https://img.shields.io/twitter/follow/nfsudas?logo=twitter&style=for-the-badge" alt="rearmar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rearmar" target="blank"><img src="https://img.shields.io/twitter/follow/rearmar?logo=twitter&style=for-the-badge" alt="rearmar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
