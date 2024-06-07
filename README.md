@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/rearmar" target="blank"><img src="https://img.shields.io/twitter/follow/rearmar?logo=twitter&style=for-the-badge" alt="rearmar" /></a> </p>
 
+![Background](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjZnbmsyZzU0OWJ3bWN5azd6bXphOWVjY3V1NmFwOHNtOXM0a2YzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hZj44bR9FVI3K/giphy.webp)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/buscado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="buscado" height="30" width="40" /></a>
