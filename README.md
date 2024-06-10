@@ -1,5 +1,5 @@
 ## hola
-```latex
+```math
 \begin{equation}
     \text{
         {}\unicode[goombafont; color:red; pointer-events: none; 
