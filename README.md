@@ -1,5 +1,5 @@
 ## hola
-```css
+```math
 .math {
     &::before { content: '&#128293;';
                 display:block;
