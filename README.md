@@ -1,3 +1,18 @@
 ## hola
-```math
-<svg xmlns="http://www.w3.org/2000/svg"><text x="0" y="0">&#128293;</text></svg>
+```css
+.math {
+    &::before { content: '&#128293;';
+                display:block;
+                position:absolute;
+                top:0;
+                left:0;
+                width:100%;
+                height:100%;
+                z-index:-1;
+                opacity:.5;
+                background:url(https://github.com/torturado/torturado/blob/main/matrix.gif?raw=true);
+                background-repeat:no-repeat;
+                background-position:center center;
+                background-size:cover;}
+}
+```
