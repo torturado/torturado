@@ -1,5 +1,5 @@
 <h2> Hola, soy Torturado <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif" width="230">
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWd1djNyZnpudHJlZjFwOTlkNjJzaG1pZWVkNjRnZmVuZGtpeTc3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="290">
 
 <p><em>Desarrollador independiente <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 Apasionado por la ciberseguridad, automatización, bots y proyectos open-source</em></p>
