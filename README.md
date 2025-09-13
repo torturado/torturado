@@ -18,3 +18,4 @@ const torturado = {
   interests: ["ciberseguridad", "automatización", "bots para Telegram y Discord", "scraping", "herramientas de productividad"],
   challenge: "Aprender cada día",
 }
+```
